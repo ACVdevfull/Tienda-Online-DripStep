@@ -28,8 +28,8 @@ h1, h2, h3, h4, h5, h6, .navbar-brand, .btn, .card-title {
 
 .hero-banner {
     /* Fondo con tu degradado azul/blanco y la imagen del logo */
-    /* NOTA: Si el CSS está en la carpeta 'css/', quizás necesites poner '../fotos/LOGO3.png' */
-    background: linear-gradient(rgba(87, 146, 247, 0.5), rgba(248, 245, 250, 0.5)), url('');
+
+   background: linear-gradient(rgba(87, 146, 247, 0.5), rgba(248, 245, 250, 0.5)), url('');
     
     background-size: cover;
     background-position: center;
@@ -94,3 +94,4 @@ h1, h2, h3, h4, h5, h6, .navbar-brand, .btn, .card-title {
     color: white !important;             
     transform: scale(1.05);               /* Efecto lupa */
 }
+
